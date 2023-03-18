@@ -3,7 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+<!---
+ Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+--->
 
 #### A product management leader with over 20 years of experience in the software industry. Expertise in Artificial Intelligence & Machine Learning, Cloud Native Architecture, Agile Methodologies and Software Design. Adept at leading and motivating multi-functional teams. An influential communicator with strong presentation and negotiation skills.
 
